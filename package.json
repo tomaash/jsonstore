@@ -2,6 +2,8 @@
   "name": "jsonstore",
   "version": "1.0.0",
   "main": "index.js",
+    "start": "node index.js"
+  },
   "repository": "git@github.com:tomaash/jsonstore.git",
   "author": "Tomáš Holas <tomas.holas@gmail.com>",
   "license": "MIT",
